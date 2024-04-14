@@ -1,0 +1,15 @@
+html{
+    background-color: navy;
+}
+body{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    border: 10px solid black double;
+    padding:5px ;
+    width: 600px;
+    margin: auto;
+}
+h1,h2{
+    text-decoration: underline;
+}
